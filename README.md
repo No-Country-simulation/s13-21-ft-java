@@ -402,6 +402,13 @@
     🔸 <b>Swagger UI:</b>
     <a href="https://s13-21-ft-java.onrender.com/swagger-ui/index.html#/" target="_blank">[ Link a Documentacion en Swagger ]</a>
    </dd>
+   🔸 <b>Diagrama:</b>
+<br>
+<a href="https://ibb.co/wp8Fhw7"><img src="https://i.ibb.co/tYnTpxz/ingenieria-inversa-der.png" alt="ingenieria-inversa-der" border="0"></a><br />
+<dd>
+    🔸 <b>Draw.io:</b>
+    <a href="https://app.diagrams.net/#G1F_qXfrsFEWTUob3Hx7nafSsru8PtKZfG" target="_blank">[ Link Draw.io ]</a>
+   </dd>
 <hr>
 <!-- ACKNOWLEDGMENTS -->
 <div align='center'>
