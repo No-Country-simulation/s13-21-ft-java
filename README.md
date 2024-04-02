@@ -408,6 +408,8 @@
 <dd>
     🔸 <b>Draw.io:</b>
     <a href="https://app.diagrams.net/#G1F_qXfrsFEWTUob3Hx7nafSsru8PtKZfG" target="_blank">[ Link Draw.io ]</a>
+<a href="https://drive.google.com/file/d/1F_qXfrsFEWTUob3Hx7nafSsru8PtKZfG/view?usp=sharing" target="_blank">[ Link a Drive ]</a>
+
    </dd>
 <hr>
 <!-- ACKNOWLEDGMENTS -->
