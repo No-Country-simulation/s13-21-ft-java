@@ -1,21 +1,60 @@
-  <h2 align='center'>Este es un proyecto de la comunidad:</h2>
-  <div align='center'><a href="https://www.nocountry.tech/" target="_blank">
-      <img style='background-color:black;' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsukYB3HL90LSwYv_RIR2O2OlCV8Sbkx2eNHv8nRvOu8L16FxLQ0nPzY02wQ_BJOfQZw&usqp=CAU" width="200">
-    </a>
-  </div>
-  <hr>
+  <h1 align="center">💳 Equipo s13-21-ft-java | No Country 🌎</h1>
+ 
   <!-- PROJECT LOGO -->
   <div align='center'>
     <a href="https://s13-21-ft-java.vercel.app/" target="_blank">
       <img src="./Walam_Front/src/assets/ecopay_logo.png" alt="Banner">
     </a>
   </div>
-  <hr>
-  <h1 align='center'>Billetera Digital Ecológica</h1>
-    <p align='center'><strong>Es más que una herramienta financiera, es una declaración de compromiso con el futuro de nuestro planeta.</strong></p>
+
+  <h1 align='center'>💸 Billetera Digital Ecológica ♻</h1>
+    <p align='center'>ECOPAY es mucho más que una simple billetera virtual. Es una innovadora solución diseñada con el medio ambiente en mente. <br>💚 Con el objetivo de simplificar las transacciones financieras y reducir nuestra huella de carbono, ECOPAY se destaca por su enfoque ecológico y sus características orientadas a la sostenibilidad. 🌱</p>
+
+
+  <div align='center'>
+   <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/21e7136e-a1ce-412b-8943-4ef2f563556c" alt="mini" width="679" height="425">
+  </div>
+  
+
 <hr>
-<dl>
-  <dd>
+
+<div align='center'>
+  <h2>🚀 Funcionalidades Principales 🚀</h2>
+</div>
+
+<div align='center'>
+  <dl>  
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Billetera virtual diseñada pensando en la ecología y el medio ambiente.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Ayuda a la disminución del consumo de papel, plástico y energía..
+      </dd>
+      <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Interfaz de usuario minimalista y fácil de usar.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Transacciones Financieras: Depósitos | Transferencias | Extracciones.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Visualiza un historial detallado de todas tus transacciones.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Consulta el valor actual de diferentes monedas.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Incluye una tarjeta virtual para realizar pagos de manera segura.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Tecnología de cifrado avanzada para proteger tus datos y transacciones.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Integración con servicios que promueven la sostenibilidad y el cuidado del medio ambiente.
+      </dd>
+  </dl>
+</div>
+
+<dd>
     🔸 <b>UX / UI 👩‍💻:</b>
     <a href="https://www.figma.com/proto/JqeVizlLMPgJSF8Hi4iWQM/s13-21-ft-Java-Dise%C3%B1o?node-id=1166-989&scaling=scale-down
 " target="_blank">[ Link a Figma ]</a>
@@ -24,46 +63,6 @@
     🔸 <b>Diseño 🎨:</b>
     <a href="https://www.figma.com/file/JqeVizlLMPgJSF8Hi4iWQM/s13-21-ft-Java-Dise%C3%B1o?type=design&node-id=85-733&mode=design&t=MAb1QJJkOiGGJMGP-0" target="_blank">[ Link a Figma ]</a>
    </dd>
-
-  <dd>
-    🔸 <b>Características:</b>
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Billetera virtual diseñada pensando en la ecología y el medio ambiente.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Su objetivo es simplificar las transacciones financieras.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Reducir la huella de carbono.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Ayudando a la disminución del consumo de papel, plástico y energía.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Depósitos, Transferencias, Extracciones.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Historial de movimientos.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Consulta de valor de divisas.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Incluye tarjeta virtual.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Seguridad avanzada con tecnología de cifrado.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Interfaz intuitiva con estilo minimalista.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Integración con servicios ecológicos.
-    </dd>
-  
-  </dd>
-</dl>
 
 <hr>
 <!-- TEAMS -->
