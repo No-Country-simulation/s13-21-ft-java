@@ -1,73 +1,103 @@
-  <h2 align='center'>Este es un proyecto de la comunidad:</h2>
-  <div align='center'><a href="https://www.nocountry.tech/" target="_blank">
-      <img style='background-color:black;' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsukYB3HL90LSwYv_RIR2O2OlCV8Sbkx2eNHv8nRvOu8L16FxLQ0nPzY02wQ_BJOfQZw&usqp=CAU" width="200">
-    </a>
-  </div>
-  <hr>
+  <h1 align="center">💳 Equipo s13-21-ft-java | No Country 🌎</h1>
+ 
   <!-- PROJECT LOGO -->
   <div align='center'>
     <a href="https://s13-21-ft-java.vercel.app/" target="_blank">
-      <img src="./Walam_Front/src/assets/ecopay_logo.png" alt="Banner">
+      <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/6f72c4c5-a7a4-4aad-bf74-0ab1a15364d0" alt="Banner">
     </a>
   </div>
-  <hr>
-  <h1 align='center'>Billetera Digital Ecológica</h1>
-    <p align='center'><strong>Es más que una herramienta financiera, es una declaración de compromiso con el futuro de nuestro planeta.</strong></p>
-<hr>
-<dl>
-  <dd>
-    🔸 <b>UX / UI 👩‍💻:</b>
+
+<br>
+  <h1 align='center'>💸 Billetera Digital Ecológica ♻</h1>
+    <p align='center'>ECOPAY es mucho más que una simple billetera virtual. Es una innovadora solución diseñada con el medio ambiente en mente. 💚 Con el objetivo de simplificar las transacciones financieras y reducir nuestra huella de carbono, ECOPAY se destaca por su enfoque ecológico y sus características orientadas a la sostenibilidad. 🌱</p>
+
+
+  <div align='center'>
+   <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/21e7136e-a1ce-412b-8943-4ef2f563556c" alt="mini" width="679" height="425">
+  </div>
+
+<br>
+<div align='center'>
+  <h2>🚀 Funcionalidades Principales 🚀</h2>
+</div>
+
+<div>
+  <dl style='padding-left: 17rem;'>  
+    <dd>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      🔹Billetera virtual diseñada pensando en la ecología y el medio ambiente.
+      </dd>
+    <dd>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      🔹Ayuda a la disminución del consumo de papel, plástico y energía.
+      </dd>
+      <dd>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      🔹Interfaz de usuario minimalista y fácil de usar.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      🔹Transacciones Financieras: Depósitos, Transferencias y Extracciones.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      🔹Visualiza un historial detallado de todas tus transacciones.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      🔹Consulta el valor actual de diferentes monedas.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      🔹Incluye una tarjeta virtual para realizar pagos de manera segura.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      🔹Tecnología de cifrado avanzada para proteger tus datos y transacciones.
+      </dd>
+    <dd>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      🔹Integración con servicios, sostenibilidad y el cuidado del medio ambiente.
+      </dd>
+  </dl>
+</div>
+
+<br>
+<div align='center'>
+  <h2>🎨 Diseño 🎨</h2>
+</div>
+
+<div align='center'>
+  <b>🌈 Diseño en Figma 🖌️:</b>
+    <a href="https://www.figma.com/file/JqeVizlLMPgJSF8Hi4iWQM/s13-21-ft-Java-Dise%C3%B1o?type=design&node-id=85-733&mode=design&t=MAb1QJJkOiGGJMGP-0" target="_blank">[ Link al Diseño Figma ]</a>
+
+  <b>🌟 Prototype 💡:</b>
     <a href="https://www.figma.com/proto/JqeVizlLMPgJSF8Hi4iWQM/s13-21-ft-Java-Dise%C3%B1o?node-id=1166-989&scaling=scale-down
-" target="_blank">[ Link a Figma ]</a>
-   </dd>
-  <dd>
-    🔸 <b>Diseño 🎨:</b>
-    <a href="https://www.figma.com/file/JqeVizlLMPgJSF8Hi4iWQM/s13-21-ft-Java-Dise%C3%B1o?type=design&node-id=85-733&mode=design&t=MAb1QJJkOiGGJMGP-0" target="_blank">[ Link a Figma ]</a>
-   </dd>
+" target="_blank">[ Link al Prototype ]</a>
+</div>
 
-  <dd>
-    🔸 <b>Características:</b>
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Billetera virtual diseñada pensando en la ecología y el medio ambiente.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Su objetivo es simplificar las transacciones financieras.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Reducir la huella de carbono.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Ayudando a la disminución del consumo de papel, plástico y energía.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Depósitos, Transferencias, Extracciones.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Historial de movimientos.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Consulta de valor de divisas.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Incluye tarjeta virtual.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Seguridad avanzada con tecnología de cifrado.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Interfaz intuitiva con estilo minimalista.
-    </dd>
-  <dd>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹Integración con servicios ecológicos.
-    </dd>
-  
-  </dd>
-</dl>
+<br>
+ <div align='center'>
+  <h2> 🎬 Video Demostración ▶ </h2>
+</div>
 
-<hr>
-<!-- TEAMS -->
-<h1 align='center'> Equipo - [s13-21-ft-java]  </h1>
+ <div align='center'>
+  <a href="https://drive.google.com/file/d/1muqouh6NgJBvyqeK7ocU4OD4Qa_R5T6V/view?usp=sharing" target="_blank" rel="noopener">
+    <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/c6f98483-fe6e-47e3-befc-c13f6516abc1" alt="mini" width="460" height="280" >
+  </a>
+</div>
+
+<br>
+<h2 align='center'>✨ Equipo ✨</h2>
 
 <table align='center'>
   <tr>
@@ -119,7 +149,7 @@
     <td align='center'>
       <div>
         <a href="https://github.com/patinoricar" target="_blank" rel="author">
-          <img width="110" src="https://avatars.githubusercontent.com/u/37978363?v=4"/>
+          <img width="110" src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/dac5bda3-8e46-4201-b1c0-6cd476ded16c"/>
         </a>
         <a href="https://github.com/patinoricar" target="_blank" rel="author">
           <h4 style="margin-top: 1rem;">Ricar Patiño</br><small>Front-End</small></h4>
@@ -284,7 +314,7 @@
     <td align='center'>
       <div>
         <a href="https://www.linkedin.com/in/diego-gonzalez-7937aa16/" target="_blank" rel="author">
-          <img width="110" src="https://media.licdn.com/dms/image/D4D35AQEBUs_VG7G_TQ/profile-framedphoto-shrink_200_200/0/1684690990880?e=1710435600&v=beta&t=Nn_-oryrVlCs-_70DTgzX-TbbzeKn83AGISUg56nVj0"/>
+          <img width="110" src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/f55014d5-6116-400d-81ce-f20c5a9c67d0"/>
         </a>
         <a href="https://www.linkedin.com/in/diego-gonzalez-7937aa16/" target="_blank" rel="author">
           <h4 style="margin-top: 1rem;">Diego Gonzalez</br><small>UX-UI</small></h4>
@@ -299,7 +329,7 @@
     <td align='center'>
       <div>
         <a href="https://www.linkedin.com/in/yuliriverosortiz/" target="_blank" rel="author">
-          <img width="110" src="https://media.licdn.com/dms/image/C5603AQFeYeu5DWFBiw/profile-displayphoto-shrink_200_200/0/1645498067851?e=1715212800&v=beta&t=IFAbm6IcV_BRjknDI329gSXgNgf2G6QwWmbu54_bLYs"/>
+          <img width="110" src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/218b2d90-2045-4bbd-93c1-2e637cc49f5a"/>
         </a>
         <a href="https://www.linkedin.com/in/yuliriverosortiz/" target="_blank" rel="author">
           <h4 style="margin-top: 1rem;">Yuli Riveros</br><small>UX-UI</small></h4>
@@ -314,7 +344,7 @@
     <td align='center'>
       <div>
         <a href="https://www.linkedin.com/in/ariadna-menendez/" target="_blank" rel="author">
-          <img width="110" src="https://media.licdn.com/dms/image/C4E03AQGgspkIikHLNw/profile-displayphoto-shrink_800_800/0/1628727835399?e=1715212800&v=beta&t=Mmc6LQyk2g3NwwjAJNk-5rjbJtYlOBPpvYWwPehoxwM"/>
+          <img width="110" src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/331c5be5-f44b-4a46-8964-f80e69906a1d"/>
         </a>
         <a href="https://www.linkedin.com/in/ariadna-menendez/" target="_blank" rel="author">
           <h4 style="margin-top: 1rem;">Ariadna Menendez</br><small>Testing</small></h4>
@@ -329,23 +359,40 @@
   </tr>
 </table>
 
+<br>
+
+<div align='center'>
+  <h2> 🖼 Capturas de pantalla 📷 </h2>
+</div>
+
+<div align='center'>
+   <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/28937f04-7c8e-4e8e-aa78-018a2753eeed" alt="mini" width="679" height="385">
+</div>
+
+<div align='center'>
+   <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/84e451a9-4b2d-4977-b7c7-569354dec836" alt="mini" width="679" height="385">
+</div>
+
+<div align='center'>
+   <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/8c86cc5c-dc47-4966-9adc-ba6d81b12ab5" alt="mini" width="679" height="385">
+</div>
+
+<div align='center'>
+   <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/2ce442b0-da9e-4bd7-8ac6-38bca09abcea" alt="mini" width="679" height="385">
+</div>
 
 <br>
 
-<h1 align='center'> VISTAS  </h1>
+<div align='center'>
+  <h2>🛠️ Tecnologías Utilizadas ⚡</h2>
+</div>
 
-![ecopay1](https://github.com/No-Country/s13-21-ft-java/assets/103864663/16e79a7d-4873-4165-a225-c5b5e162ed83)
-![image](https://github.com/No-Country/s13-21-ft-java/assets/103864663/c5924ad1-dec4-4a3b-b961-fe87e3dfb020)
-![ecopay3](https://github.com/No-Country/s13-21-ft-java/assets/103864663/ffd3b6ac-4b4e-45f9-9326-b6579a1e7e43)
-![ecopay4](https://github.com/No-Country/s13-21-ft-java/assets/103864663/89c2a099-ef3e-419c-b356-d4ad35c6512f)
-![ecopay5](https://github.com/No-Country/s13-21-ft-java/assets/103864663/278792b5-169e-4b8b-8da8-322dbf84f6fe)
+<div align='center'>
+  <h2>Frontend</h2>
+  </div>
 
-<br>
-
-<section id='tech-stack'>
-  <h1> Tecnologias Usadas </h1>
-  <h2>Front-End</h2>
-
+  <div align='center'>
+    
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -355,8 +402,14 @@
 ![YUP](https://img.shields.io/badge/YUP-000?style=for-the-badge)
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 
-  <h2>BacK-End</h2>
+  </div>
 
+<div align='center'>
+  <h2>Backend</h2>
+  </div>
+  
+  <div align='center'>
+    
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
@@ -366,56 +419,78 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+  </div>
 
+<div align='center'>
   <h2> Organización </h2>
-  <a href='https://figma.com/'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Logo" width="60" height="60">
-  </a>
-  <a href='https://slack.com/'>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Logo" width="60" height="60">
-  </a>
-  <a href='https://www.discord.gg/'>
-    <img src="https://img.icons8.com/color/480/discord-new-logo.png" alt="Logo" width="70" height="65">
-  </a>
-   <a href='https://trello.com/'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Logo" width="60" height="60">
-  </a>
-</section>
+  </div>
 
-<hr>
-<!-- Video -->
-<h2> Video Promocional: </h2>
-<a href='https://drive.google.com/file/d/1muqouh6NgJBvyqeK7ocU4OD4Qa_R5T6V/view?usp=sharing'>
-  <img src='./Walam_Front/src/assets/ecopay_logo.png' alt='Video Thumbnail' />
-</a>
+  <div align='center'>
+      <a href='https://figma.com/'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Logo" width="60" height="60">
+      </a>
+      <a href='https://slack.com/'>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Logo" width="60" height="60">
+      </a>
+      <a href='https://www.discord.gg/'>
+        <img src="https://img.icons8.com/color/480/discord-new-logo.png" alt="Logo" width="70" height="65">
+      </a>
+       <a href='https://trello.com/'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Logo" width="60" height="60">
+      </a>
+</div>
 
-<hr>
+<br>
+<br>
+
+<div align='center'>
  <dd>
     🔸 <b>Postman Collection:</b>
     <a href="https://drive.google.com/file/d/1V16jwVYbMnqIDw6iH2M6pC28MOALSR4A/view?usp=drive_link" target="_blank">[ Link a Google Drive ]</a>
    </dd>
     <dd>
-      <b>Instrucciones:</b> Descargar el archivo. Abrir Postman. Ir a File -> Import -> Seleccionar el archivo descargado. 
+      <b>Instrucciones:</b> Descargar el archivo. Abrir Postman. <br> Ir a File -> Import -> Seleccionar el archivo descargado. 
    </dd>
+   </div>
+   
    <br>
-    <dd>
-    🔸 <b>Swagger UI:</b>
-    <a href="https://s13-21-ft-java.onrender.com/swagger-ui/index.html#/" target="_blank">[ Link a Documentacion en Swagger ]</a>
-   </dd>
-   🔸 <b>Diagrama:</b>
+
+<div align='center'>
+  <h2> Swagger </h2>
+  </div>
+
+  <div align='center'>
+   <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/420b3a1d-aeba-40ee-9cbb-7136de198a3a" alt="mini" width="680" height="1165">
+</div>
+
+   <div align='center'>
+  <br>
+
+<div align='center'>
+  <h2> Diagramas </h2>
+  </div>
+
+<div align='center'>
 <br>
 <a href="https://ibb.co/wp8Fhw7"><img src="https://i.ibb.co/tYnTpxz/ingenieria-inversa-der.png" alt="ingenieria-inversa-der" border="0"></a><br />
-<dd>
+  
+  <br>
+  <dd>
     🔸 <b>Draw.io:</b>
+    <a href="https://drive.google.com/file/d/1F_qXfrsFEWTUob3Hx7nafSsru8PtKZfG/view?usp=sharing" target="_blank">[ Link a Drive ]</a>
     <a href="https://app.diagrams.net/#G1F_qXfrsFEWTUob3Hx7nafSsru8PtKZfG" target="_blank">[ Link Draw.io ]</a>
-<a href="https://drive.google.com/file/d/1F_qXfrsFEWTUob3Hx7nafSsru8PtKZfG/view?usp=sharing" target="_blank">[ Link a Drive ]</a>
-
    </dd>
-<hr>
-<!-- ACKNOWLEDGMENTS -->
+    </div>
+
+<br>
+
 <div align='center'>
-  <h3>Agradecimientos</h3>
-  <a href="https://www.nocountry.tech/" target="_blank">
-    <img style='background-color:black;' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsukYB3HL90LSwYv_RIR2O2OlCV8Sbkx2eNHv8nRvOu8L16FxLQ0nPzY02wQ_BJOfQZw&usqp=CAU" width="200">
+  <h2> 🎆 Agradecimientos 🎇 </h2>
+</div>
+
+<div align='center'>
+  <a href="https://www.nocountry.tech/" target="_blank" rel="noopener">
+    <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/c360f832-5983-4437-bbc7-7a4afe659302" alt="mini" width="343" height="193">
   </a>
 </div>
+

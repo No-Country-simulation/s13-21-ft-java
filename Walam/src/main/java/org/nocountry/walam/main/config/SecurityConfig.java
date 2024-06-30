@@ -11,6 +11,9 @@ import org.springframework.security.config.annotation.web.configurers.AbstractHt
 import org.springframework.security.config.http.SessionCreationPolicy;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
+import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
+import org.springframework.security.web.util.matcher.OrRequestMatcher;
+import org.springframework.security.web.util.matcher.RequestMatcher;
 
 @Configuration
 @EnableWebSecurity
@@ -36,15 +39,7 @@ public class SecurityConfig {
                 // Deshabilitar CSRF para simplificar la configuración en este ejemplo.
                 .csrf(csrf -> csrf.disable())
                 // Configurar reglas de autorización para las solicitudes HTTP.
-                .authorizeHttpRequests(authRequest ->
-                        authRequest
-                                // Permitir el acceso sin autenticación a las solicitudes que coincidan con "/auth/**".
-                                .requestMatchers("/v3/**","/swagger-ui/**").permitAll()
-                                .requestMatchers("/auth/**").permitAll()
-                                .requestMatchers("/api/**").permitAll()
-                                .requestMatchers("/h2-console/**").permitAll()
-                                // Exigir autenticación para todas las demás solicitudes.
-                                .anyRequest().authenticated())
+                .authorizeHttpRequests(auth -> auth.requestMatchers(publicEndpoints()).permitAll().anyRequest().authenticated())
                 // Configurar el formulario de inicio de sesión con valores predeterminados.
                 //.formLogin(withDefaults())
                 .sessionManagement(sessionManager-> sessionManager
@@ -54,5 +49,15 @@ public class SecurityConfig {
                 // Construir la cadena de filtros de seguridad.
                 .headers(AbstractHttpConfigurer::disable)
                 .build();
+    }
+
+    private RequestMatcher publicEndpoints() {
+        return new OrRequestMatcher(
+                // Esto cambia según los endpoints que usemos nosotros
+                new AntPathRequestMatcher("/v1/api/auth/*"),
+                new AntPathRequestMatcher("/swagger-ui/**"),
+                new AntPathRequestMatcher("/v3/api-docs/**"),
+                new AntPathRequestMatcher("/v1/api/render/*")
+        );
     }
 }
