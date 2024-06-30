@@ -356,11 +356,11 @@
 <br>
 
 <div align='center'>
-  <h2>🔮 Tecnologías Utilizadas 🔮</h2>
+  <h2>🛠️ Tecnologías Utilizadas ⚡</h2>
 </div>
 
 <div align='center'>
-  <h2>Front-End</h2>
+  <h2>Frontend</h2>
   </div>
 
   <div align='center'>
@@ -377,7 +377,7 @@
   </div>
 
 <div align='center'>
-  <h2>BacK-End</h2>
+  <h2>Backend</h2>
   </div>
   
   <div align='center'>
@@ -414,13 +414,20 @@
 
 
 <hr>
-<!-- Video -->
-<h2> Video Promocional: </h2>
-<a href='https://drive.google.com/file/d/1muqouh6NgJBvyqeK7ocU4OD4Qa_R5T6V/view?usp=sharing'>
-  <img src='./Walam_Front/src/assets/ecopay_logo.png' alt='Video Thumbnail' />
-</a>
+
+<br>
+ <div align='center'>
+  <h2> 🎬 Video Demostración ▶ </h2>
+</div>
+
+ <div align='center'>
+  <a href="https://drive.google.com/file/d/1muqouh6NgJBvyqeK7ocU4OD4Qa_R5T6V/view?usp=sharing" target="_blank" rel="noopener">
+    <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/c6f98483-fe6e-47e3-befc-c13f6516abc1" alt="mini" width="460" height="280" >
+  </a>
+</div>
 
 <hr>
+
  <dd>
     🔸 <b>Postman Collection:</b>
     <a href="https://drive.google.com/file/d/1V16jwVYbMnqIDw6iH2M6pC28MOALSR4A/view?usp=drive_link" target="_blank">[ Link a Google Drive ]</a>
