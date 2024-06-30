@@ -3,7 +3,7 @@
   <!-- PROJECT LOGO -->
   <div align='center'>
     <a href="https://s13-21-ft-java.vercel.app/" target="_blank">
-      <img src="./Walam_Front/src/assets/ecopay_logo.png" alt="Banner">
+      <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/6f72c4c5-a7a4-4aad-bf74-0ab1a15364d0" alt="Banner">
     </a>
   </div>
 
