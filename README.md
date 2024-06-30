@@ -7,16 +7,16 @@
     </a>
   </div>
 
+<br>
   <h1 align='center'>💸 Billetera Digital Ecológica ♻</h1>
-    <p align='center'>ECOPAY es mucho más que una simple billetera virtual. Es una innovadora solución diseñada con el medio ambiente en mente. <br>💚 Con el objetivo de simplificar las transacciones financieras y reducir nuestra huella de carbono, ECOPAY se destaca por su enfoque ecológico y sus características orientadas a la sostenibilidad. 🌱</p>
+    <p align='center'>ECOPAY es mucho más que una simple billetera virtual. Es una innovadora solución diseñada con el medio ambiente en mente. 💚 Con el objetivo de simplificar las transacciones financieras y reducir nuestra huella de carbono, ECOPAY se destaca por su enfoque ecológico y sus características orientadas a la sostenibilidad. 🌱</p>
 
 
   <div align='center'>
    <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/21e7136e-a1ce-412b-8943-4ef2f563556c" alt="mini" width="679" height="425">
   </div>
 
-<hr>
-
+<br>
 <div align='center'>
   <h2>🚀 Funcionalidades Principales 🚀</h2>
 </div>
@@ -53,6 +53,7 @@
   </dl>
 </div>
 
+<br>
 <div align='center'>
   <h2>🎨 Diseño 🎨</h2>
 </div>
@@ -66,8 +67,18 @@
 " target="_blank">[ Link al Prototype ]</a>
 </div>
 
-<hr>
-<!-- TEAMS -->
+<br>
+ <div align='center'>
+  <h2> 🎬 Video Demostración ▶ </h2>
+</div>
+
+ <div align='center'>
+  <a href="https://drive.google.com/file/d/1muqouh6NgJBvyqeK7ocU4OD4Qa_R5T6V/view?usp=sharing" target="_blank" rel="noopener">
+    <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/c6f98483-fe6e-47e3-befc-c13f6516abc1" alt="mini" width="460" height="280" >
+  </a>
+</div>
+
+<br>
 <h2 align='center'>✨ Equipo ✨</h2>
 
 <table align='center'>
@@ -330,7 +341,6 @@
   </tr>
 </table>
 
-
 <br>
 
 <div align='center'>
@@ -412,22 +422,10 @@
       </a>
 </div>
 
-
-<hr>
-
 <br>
- <div align='center'>
-  <h2> 🎬 Video Demostración ▶ </h2>
-</div>
+<br>
 
- <div align='center'>
-  <a href="https://drive.google.com/file/d/1muqouh6NgJBvyqeK7ocU4OD4Qa_R5T6V/view?usp=sharing" target="_blank" rel="noopener">
-    <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/c6f98483-fe6e-47e3-befc-c13f6516abc1" alt="mini" width="460" height="280" >
-  </a>
-</div>
-
-<hr>
-
+<div align='center'>
  <dd>
     🔸 <b>Postman Collection:</b>
     <a href="https://drive.google.com/file/d/1V16jwVYbMnqIDw6iH2M6pC28MOALSR4A/view?usp=drive_link" target="_blank">[ Link a Google Drive ]</a>
@@ -435,25 +433,42 @@
     <dd>
       <b>Instrucciones:</b> Descargar el archivo. Abrir Postman. Ir a File -> Import -> Seleccionar el archivo descargado. 
    </dd>
+   </div>
+   
    <br>
+   
+   <div align='center'>
     <dd>
     🔸 <b>Swagger UI:</b>
     <a href="https://s13-21-ft-java.onrender.com/swagger-ui/index.html#/" target="_blank">[ Link a Documentacion en Swagger ]</a>
    </dd>
+        </div>
+        
+  <br>
+
+<div align='center'>
    🔸 <b>Diagrama:</b>
+   
 <br>
 <a href="https://ibb.co/wp8Fhw7"><img src="https://i.ibb.co/tYnTpxz/ingenieria-inversa-der.png" alt="ingenieria-inversa-der" border="0"></a><br />
-<dd>
+  
+  <br>
+  <dd>
     🔸 <b>Draw.io:</b>
+    <a href="https://drive.google.com/file/d/1F_qXfrsFEWTUob3Hx7nafSsru8PtKZfG/view?usp=sharing" target="_blank">[ Link a Drive ]</a>
     <a href="https://app.diagrams.net/#G1F_qXfrsFEWTUob3Hx7nafSsru8PtKZfG" target="_blank">[ Link Draw.io ]</a>
-<a href="https://drive.google.com/file/d/1F_qXfrsFEWTUob3Hx7nafSsru8PtKZfG/view?usp=sharing" target="_blank">[ Link a Drive ]</a>
-
    </dd>
-<hr>
-<!-- ACKNOWLEDGMENTS -->
+    </div>
+
+<br>
+
 <div align='center'>
-  <h3>Agradecimientos</h3>
-  <a href="https://www.nocountry.tech/" target="_blank">
-    <img style='background-color:black;' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsukYB3HL90LSwYv_RIR2O2OlCV8Sbkx2eNHv8nRvOu8L16FxLQ0nPzY02wQ_BJOfQZw&usqp=CAU" width="200">
+  <h2> 🎆 Agradecimientos 🎇 </h2>
+</div>
+
+<div align='center'>
+  <a href="https://www.nocountry.tech/" target="_blank" rel="noopener">
+    <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/c360f832-5983-4437-bbc7-7a4afe659302" alt="mini" width="343" height="193">
   </a>
 </div>
+
