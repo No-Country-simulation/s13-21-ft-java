@@ -449,7 +449,7 @@
     <a href="https://drive.google.com/file/d/1V16jwVYbMnqIDw6iH2M6pC28MOALSR4A/view?usp=drive_link" target="_blank">[ Link a Google Drive ]</a>
    </dd>
     <dd>
-      <b>Instrucciones:</b> Descargar el archivo. Abrir Postman. Ir a File -> Import -> Seleccionar el archivo descargado. 
+      <b>Instrucciones:</b> Descargar el archivo. Abrir Postman. <br> Ir a File -> Import -> Seleccionar el archivo descargado. 
    </dd>
    </div>
    
