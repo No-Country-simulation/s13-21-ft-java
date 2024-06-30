@@ -6,7 +6,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("send-email")
+@RequestMapping("v1/api/send-email")
 public class EmailController {
 
     @Autowired

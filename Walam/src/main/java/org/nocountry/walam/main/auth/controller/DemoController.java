@@ -6,11 +6,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/api/v1")
+@RequestMapping("v1/api")
 @RequiredArgsConstructor
 public class DemoController {
 
-    @PostMapping(value = "demo")
+    @PostMapping("/demo")
     public String welcome(){
         return "Welcome from a secure endpoint";
     }
