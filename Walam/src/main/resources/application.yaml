@@ -3,17 +3,17 @@ server:
 
 spring:
   datasource:
-    url: ${DB_URL}
-    username: ${DB_USERNAME}
-    password: ${DB_PASSWORD}
+    url: jdbc:mysql://localhost:3306/ecopay
+    username: root
+    password:
     hikari:
       maximum-pool-size: 1
   jpa:
-    show-sql: false
+    show-sql: true
     properties:
       hibernate:
         format_sql: true
-        show-sql: false
+        show-sql: true
     hibernate:
       ddl-auto: create
   output:
@@ -21,12 +21,13 @@ spring:
       enabled: always
 
 springdoc:
-  swagger-ui:
-    enabled: true
   api-docs:
     enabled: true
-    swagger-ui:
-      path: /swagger-ui.html
+    path: /v3/api-docs
+  swagger-ui:
+    enabled: true
+    path: /swagger-ui
+  pathsToMatch: /v1/api/**
 
 email:
   host: smtp.gmail.com
