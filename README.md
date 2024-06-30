@@ -66,10 +66,7 @@
     <dd>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      🔹Integración con servicios que promueven la sostenibilidad <br> 
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      y el cuidado del medio ambiente.
+      🔹Integración con servicios, sostenibilidad y el cuidado del medio ambiente.
       </dd>
   </dl>
 </div>
@@ -457,19 +454,23 @@
    </div>
    
    <br>
-   
+
+<div align='center'>
+  <h2> Swagger </h2>
+  </div>
+
+  <div align='center'>
+   <img src="https://github.com/MatiasNicolasAcevedo/s13-21-ft-java/assets/109118183/420b3a1d-aeba-40ee-9cbb-7136de198a3a" alt="mini" width="680" height="1165">
+</div>
+
    <div align='center'>
-    <dd>
-    🔸 <b>Swagger UI:</b>
-    <a href="https://s13-21-ft-java.onrender.com/swagger-ui/index.html#/" target="_blank">[ Link a Documentacion en Swagger ]</a>
-   </dd>
-        </div>
-        
   <br>
 
 <div align='center'>
-   🔸 <b>Diagrama:</b>
-   
+  <h2> Diagramas </h2>
+  </div>
+
+<div align='center'>
 <br>
 <a href="https://ibb.co/wp8Fhw7"><img src="https://i.ibb.co/tYnTpxz/ingenieria-inversa-der.png" alt="ingenieria-inversa-der" border="0"></a><br />
   
